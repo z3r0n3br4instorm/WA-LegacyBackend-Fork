@@ -1,0 +1,11 @@
+{
+  "homeserver": "https://matrix-client.beeper.com",
+  "user_id": "@username:beeper.com",
+  "device_id": "DEVICEID",
+  "access_token": "YOUR_MATRIX_ACCESS_TOKEN",
+  "sync_filter_path": "python_server/storage/sync_filter.json",
+  "store_path": "python_server/storage/matrix",
+  "media_cache_dir": "python_server/storage/media",
+  "encryption": false,
+  "verify_ssl": true
+}
